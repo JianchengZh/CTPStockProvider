@@ -34,8 +34,3 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-#pragma warning disable 1699
-[assembly: AssemblyDelaySign(false)]
-[assembly: AssemblyKeyFile(@"G:\CalmBelt\SOUCRE\ExternalLibrary\CalmBeltFund.snk")]
-[assembly: AssemblyKeyName("")]
-#pragma warning restore 1699
